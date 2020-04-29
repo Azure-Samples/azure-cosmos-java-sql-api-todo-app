@@ -5,13 +5,13 @@ languages:
 - javascript
 products:
 - azure
-description: "The sample code in this Github repository demonstrates how to create a simple application using Java and Azure DocumentDB."
+description: "The sample code in this Github repository demonstrates how to create a simple application using Azure Cosmos DB and Java SDK for Core (SQL) API."
 urlFragment: documentdb-java-todo-app
 ---
 
 # A Simple Todo List Application built w/ Java + Azure DocumentDB
 
-The sample code in this Github repository demonstrates how to create a simple application using Java and Azure DocumentDB.
+The sample code in this Github repository demonstrates how to create a simple application using Azure Cosmos DB and Java SDK for Core (SQL) API.
 
 For a complete end-to-end walkthrough of creating the application, please visit the following [Azure documentation page](https://azure.microsoft.com/documentation/articles/documentdb-java-application/).
 
