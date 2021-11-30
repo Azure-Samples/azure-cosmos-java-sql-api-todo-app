@@ -5,13 +5,13 @@ languages:
 - javascript
 products:
 - azure
-description: "The sample code in this Github repository demonstrates how to create a simple application using Java and Azure CosmosDB."
+description: "The sample code in this Github repository demonstrates how to create a simple application using Java and Azure Cosmos DB."
 urlFragment: cosmos-java-todo-app
 ---
 
-# A Simple Todo List Application built w/ Java + Azure CosmosDB
+# A Simple Todo List Application built w/ Java + Azure Cosmos DB
 
-The sample code in this Github repository demonstrates how to create a simple application using Java and Azure CosmosDB.
+The sample code in this Github repository demonstrates how to create a simple application using Java and Azure Cosmos DB.
 
 For a complete end-to-end walkthrough of creating the application, please visit the following [Azure documentation page](https://azure.microsoft.com/documentation/articles/cosmos-java-application/).
 
@@ -21,7 +21,7 @@ For a complete end-to-end walkthrough of creating the application, please visit 
 ##<a id="Requirements"></a>Requirements
 Before you begin this application development tutorial, you must have the following:
 
-- An active Azure CosmosDB account. 
+- An active Azure Cosmos DB account. 
   - If you don't have an account, you can find instructions on how to create one on our [Azure documentation page](https://docs.microsoft.com/azure/cosmos-db/create-cosmosdb-resources-portal).
 - [Java Development Kit (JDK) 7+](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
 - [Eclipse IDE for Java EE Developers.](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/lunasr1)
